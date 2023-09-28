@@ -37,22 +37,14 @@ Esta línea agrega un "escuchador" a cada botón para el evento de clic. Cuando 
 ```shell
 button.addEventListener("click", () => { ... } 
 ```
-
-## Características
-
-Característica 1
-Característica 2
-Característica 3
-Contribución
-## Uso
-El uso de esta página es muy sencillo, es el uso que le hemos dado a cualquier
-tipo de calculadora, en este caso es una sencilla.
-Seleccionamos los numeros que necesitemos y luego un operador matemático.
-
 ## Características
 - Sencillo de usar.
 - Desarrollado en visual studio code con los lenguajes antes mencionados.
 
+## Uso
+El uso de esta página es muy sencillo, es el uso que le hemos dado a cualquier
+tipo de calculadora, en este caso es una sencilla.
+Seleccionamos los numeros que necesitemos y luego un operador matemático.
 
 
 
